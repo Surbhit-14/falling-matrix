@@ -85,7 +85,7 @@ window.addEventListener('resize', function(){
     v.resize(canvas.width, canvas.height)
 })
 
-window.addEventListener('ontouchmove', function(){
+window.addEventListener('touchmove', function(){
     canvas.width = window.innerWidth
     canvas.height = window.innerHeight
     v.resize(canvas.width, canvas.height)
