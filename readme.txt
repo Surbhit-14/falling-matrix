@@ -1,0 +1,2 @@
+1--createLinearGradient(startX,startY,endX,endY)-create an imaginary line between these two point and which determine size and direction of LinearGradient
+2--createRadialGradient(x1,y1,r1,x2,y2,r2)-takes x & y of inner circle and its radius and x & y of outer circle and its radius. Create radiant between those circles 
